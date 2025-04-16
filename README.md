@@ -7,9 +7,10 @@ Whether it's packages, groceries, documents, or personalized errands — we deli
 
 - Doorstep delivery services across neighborhoods
 - On-demand errands for individuals and businesses
-- Real-time delivery tracking (coming soon!)
-- Friendly and professional riders
 - Affordable pricing with flexible payment options
+- Real-time delivery tracking (coming soon!)
+- SAAS for Friendly and professional riders (Coming soon!)
+- 
 
 ## Getting Started (for developers)
 
